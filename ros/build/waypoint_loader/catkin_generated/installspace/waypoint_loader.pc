@@ -1,0 +1,8 @@
+prefix=/home/raymond/Udacity/Self_Driving_Car/9_Autonomous_Car/github/CarND-Capstone/ros/install
+
+Name: waypoint_loader
+Description: Description of waypoint_loader
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

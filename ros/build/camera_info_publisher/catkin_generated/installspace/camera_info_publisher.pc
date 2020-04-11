@@ -1,0 +1,8 @@
+prefix=/home/raymond/Udacity/Self_Driving_Car/9_Autonomous_Car/github/CarND-Capstone/ros/install
+
+Name: camera_info_publisher
+Description: Description of camera_info_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
